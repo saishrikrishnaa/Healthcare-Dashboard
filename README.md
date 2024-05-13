@@ -1,6 +1,8 @@
 # Healthcare-Dashboard
 
 **Tasks Performed:**
+
+
 Data Cleaning:
 
 • Meriging of data from various csv files.
@@ -12,6 +14,7 @@ Data Cleaning:
 • Cleaning individual columns.
 
 • Remove the NaN values from the dataset
+
 
 
 
@@ -29,6 +32,8 @@ Data Visualization:
 • Top 5 Specilty
 
 • Cards,Slicers & Tooltips
+
+
 
 
 
